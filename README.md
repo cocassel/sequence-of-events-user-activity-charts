@@ -1,5 +1,5 @@
 # user-activity-dashboard
-An RShiny dashboard application that visualizes user activity logs for the haptic design website, Macaron.
+An RShiny dashboard application that visualizes user activity logs for the haptic design website, Macaron. <br />
 Macaron: http://hapticdesign.github.io/macaron/
 
 RShiny dashboard features Sequence of Events Charts made using ggplot2 that visualize a user's interactions
