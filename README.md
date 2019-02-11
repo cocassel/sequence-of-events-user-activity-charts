@@ -5,4 +5,4 @@ The RShiny dashboard features graphs of various usage metrics; date filters can 
 
 See user-activity-dashboard/sequence-of-events-charts for example charts
 
-![](User_Sequence_Plot_Examples/-K7PvUZszCGcE52F6IjI.png)
+![Sequence Plot](User_Sequence_Plot_Examples/-K7uff5Zg-y7VD_1QyJr.png)
